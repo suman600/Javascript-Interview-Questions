@@ -1,6 +1,6 @@
 # Comprehensive JavaScript Guide
 
-## basic-concepts
+## Basic Concepts
 
 - JavaScript and its Features: What are the core features of JavaScript?
 - Data Types: Explain JavaScript's primitive and complex data types.
