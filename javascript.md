@@ -1,4 +1,4 @@
-# JavaScript Overview
+# 1. JavaScript and its Features
 
 ## Introduction
 JavaScript, a single-threaded asynchronous interpreted programming language developed by Brendan Eich in 1995, is used to create and control dynamic websites. It is widely used for both front-end and back-end development, its offering many key features like those listed below..
