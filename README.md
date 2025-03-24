@@ -1,82 +1,62 @@
 # Comprehensive JavaScript Guide
 
-## Basic Concepts
-
-- JavaScript and its Features: What are the core features of JavaScript?
-- Data Types: Explain JavaScript's primitive and complex data types.
-- typeof Operator: How do you use the `typeof` operator in JavaScript?
-- NaN Property: What does `NaN` stand for in JavaScript?
-- var, let, and const: Explain the differences between `var`, `let`, and `const` for variable declaration.
-- Hoisting: What is hoisting in JavaScript?
-- Strict Mode: How does `"use strict"` affect JavaScript code execution?
-
-## Functions and Closures
-
-- Function Declaration vs. Function Expression: What are the differences between function declaration and function expression?
-- Arrow Functions: How do you define arrow functions in JavaScript?
-- Call, Apply, and Bind Methods: Explain the usage of `call`, `apply`, and `bind` methods in JavaScript.
-- 'this' Keyword: How is the `this` keyword used in JavaScript?
-- Closures: What are closures in JavaScript and how are they used?
-- IIFE (Immediately Invoked Function Expression): How do you define and execute an IIFE in JavaScript?
-- Currying: What is currying in JavaScript?
-- Higher Order Functions: Give examples of higher order functions in JavaScript.
-- Recursion: Explain recursion and provide an example in JavaScript.
-- Memoization: How is memoization implemented in JavaScript?
-
-## Asynchronous Programming
-
-- Callbacks: What are callbacks and how are they used in asynchronous programming?
-- Promises and Promises Chaining: How do you work with promises and chain them for sequential operations?
-- Async/Await: Explain the syntax and usage of `async` and `await` in JavaScript.
-- Event Loop: What is the event loop in JavaScript?
-- Asynchronous Programming: What are some best practices for asynchronous programming in JavaScript?
-
-## Object-Oriented JavaScript
-
-- Objects: How do you create and manipulate objects in JavaScript?
-- Constructors: What are constructors and how are they used in JavaScript?
-- Constructor Functions: Explain the concept of constructor functions in JavaScript.
-- Object Prototypes: What are prototypes in JavaScript?
-- Prototype Design Pattern: How is the prototype design pattern applied in JavaScript?
-- Differences between Prototypal and Classical Inheritance: Compare prototypal inheritance in JavaScript with classical inheritance.
-- Classes: How do classes work in JavaScript (ES6 and beyond)?
-
-## ES6 and Beyond
-
-- Rest Parameters and Spread Operators: Explain the usage of rest parameters and spread operators in JavaScript.
-- Object Destructuring: How do you use object destructuring in JavaScript?
-- Generator Functions: What are generator functions and how are they used?
-- Getter and Setter Methods: How do you define getter and setter methods in JavaScript?
-
-## Scopes and Environments
-
-- Lexical Environments: What is a lexical environment in JavaScript?
-- Temporal Dead Zone: Explain the temporal dead zone in JavaScript.
-- Scope and Scope Chain: How does scope and scope chain work in JavaScript?
-
-## Error Handling
-
-- Types of Errors: What are the different types of errors in JavaScript?
-- Error Handling with try and catch: How do you handle errors using `try` and `catch` in JavaScript?
-
-## DOM and Browser APIs
-
-- Document Object Model (DOM): How do you manipulate the DOM in JavaScript?
-- Differences between Document and Window Objects: Compare the `document` and `window` objects in JavaScript.
-- Cookies: How are cookies managed in JavaScript?
-- Storage Mechanisms: What are the different storage mechanisms available in browsers?
-
-## Advanced Concepts
-
-- Passed by Value and Passed by Reference: Explain the concepts of passed by value and passed by reference in JavaScript.
-- Difference between Undefined and Null: What is the difference between `undefined` and `null` in JavaScript?
-- Debounce Function: How is a debounce function implemented in JavaScript?
-- Event Bubbling and Event Capturing: Describe event bubbling and event capturing in the DOM.
-- Event Delegation: How is event delegation used in JavaScript?
-- 'new' Keyword: What is the purpose of the `new` keyword in JavaScript?
-- Eval Method: How does the `eval` function work in JavaScript?
-
-## Miscellaneous
-
-- Difference between Client-Side and Server-Side: What are the main differences between client-side and server-side execution?
-- Differences between forEach, map, filter, and reduce Methods: Compare and contrast the usage of `forEach`, `map`, `filter`, and `reduce` methods in JavaScript arrays.
+1. JavaScript and its Features
+2. Data Types
+3. var, let, and const
+4. Lexical Environments
+5. Scope and Scope Chain
+6. Hoisting
+7. Temporal Dead Zone
+8. Typeof Operator
+9. Passed by Value and Passed by Reference
+10. Difference between Undefined and Null
+11. Object Prototypes
+12. Constructor Functions
+13. Objects
+14. Prototypal vs. Classical Inheritance
+15. Function Declaration vs. Function Expression
+16. Closures
+17. IIFE (Immediately Invoked Function Expression)
+18. Higher-Order Functions
+19. Arrow Functions
+20. 'this' Keyword
+21. Call, Apply, and Bind Methods
+22. Rest Parameters and Spread Operators
+23. Currying
+24. Recursion
+25. Memoization
+26. Promises and Promise Chaining
+27. Callbacks
+28. Async/Await
+29. Asynchronous Programming
+30. Generator Functions
+31. Event Loop
+32. NaN Property
+33. Strict Mode
+34. Eval Method
+35. Storage Mechanisms
+36. Cookies
+37. Document Object Model (DOM)
+38. Event Bubbling and Event Capturing
+39. Event Delegation
+40. Difference between Document and Window Objects
+41. Error Handling with try and catch
+42. Debounce Function
+43. Differences between forEach, map, filter, and reduce Methods
+44. 'new' Keyword
+45. Getter and Setter Methods
+46. Types of Errors
+47. Difference between Client-Side and Server-Side
+48. Prototype Design Pattern
+49. Classes
+50. Call Stack and Stack Trace
+51. Promises and Microtasks
+52. What is the difference between == and === in JavaScript?
+53. Explain the use of setTimeout and setInterval methods in JavaScript.
+54. What is the role of the JavaScript engine in the execution of code?
+55. How do you handle memory leaks in JavaScript?
+56. What is WeakMap and how does it differ from Map?
+57. Explain throttling in JavaScript and its use cases.
+58. What is event.preventDefault() and event.stopPropagation()?
+59. Explain JavaScript's single-threaded nature and how it handles concurrency.
+60. What is the purpose of the Symbol type in JavaScript?
